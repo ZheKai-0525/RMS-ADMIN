@@ -47,32 +47,6 @@
                     <a href="#">Forgot Password?</a>
                 </div>
             </form>
-            <!-- <form action="#" method="post">
-                <div class="avatar">
-                    <i class="fas fa-user"></i>
-                </div>
-                <h2 class="text-center">Admin Login</h2>
-
-                <?php if (isset($_GET['error'])) { ?>
-                            <p class="error" ><?php echo $_GET['error']; ?></p>
-                <?php } ?>
-
-                <div class="form-group">
-                    <input type="text" class="form-control" name="email" placeholder="Email" required="required">
-                </div>
-
-                <div class="form-group">
-                    <input type="password" class="form-control" name="password" placeholder="Password" required="required">
-                </div>
-
-                <div class="form-group">
-                    <button type="submit" name="login" class="btn btn-primary btn-lg btn-block">Sign in</button>
-                </div>
-
-                <div class="bottom-action clearfix">
-                    <a href="#" class="float-right">Forgot Password?</a>
-                </div>
-            </form> -->
         </div>
 	</body>
 </html>
