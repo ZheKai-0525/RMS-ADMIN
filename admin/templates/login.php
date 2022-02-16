@@ -26,7 +26,7 @@
                     </div>
                 </div>
                 <div class="row mb-4 text-center">
-                    <h2>Admin Login testgit</h2>
+                    <h2>Admin Login</h2>
                 </div>
                 <div class="row mb-4">
                     <div class="input-group">
