@@ -18,8 +18,13 @@
 	</head>
 
 	<body class="bg-color">
-        <div class="row login-box">
-            <form action="#" method="post" class="col bg-white rounded-2 p-4 box-shadow">
+        <div class="row login-box box-shadow rounded-2 bg-white">
+            <form action="#" method="post" class="col p-4">
+                <div class="row mb-3 text-center">
+                    <div class="col">
+                        <img src="../../public_html/images/logo3.png">
+                    </div>
+                </div>
                 <div class="row mb-4 text-center">
                     <h2>Admin Login</h2>
                 </div>
