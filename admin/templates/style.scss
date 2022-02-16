@@ -1,0 +1,53 @@
+.bg-color {
+    background-color: #e7d584;
+}
+
+.login-box {
+    left: 50%;
+    top: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    width: 23.75em;
+
+    .form-title {
+        margin: auto;
+    }
+
+    .login-btn {
+        padding: 0px 12px;
+    }
+
+    div > a {
+        text-decoration: none;
+        color: #7a7a7a;
+    }
+
+    div > a:hover {
+        text-decoration: underline;
+    }
+
+    img {
+        width: 35%;
+    }
+}
+
+.box-shadow {
+    box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.3)
+}
+
+.input-group {
+    .input-group-text, input {
+        border: 0px;
+        background-color: rgb(241, 241, 241);
+    }
+
+    input {
+        width: 100%;
+    }
+
+    input:focus {
+        outline: 0 none;
+        box-shadow: none;
+        background-color: rgb(241, 241, 241);
+    }
+}

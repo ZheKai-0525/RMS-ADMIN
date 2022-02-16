@@ -1,0 +1,55 @@
+.bg-color {
+  background-color: #e7d584;
+}
+
+.login-box {
+  left: 50%;
+  top: 50%;
+  position: absolute;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  width: 23.75em;
+}
+
+.login-box .form-title {
+  margin: auto;
+}
+
+.login-box .login-btn {
+  padding: 0px 12px;
+}
+
+.login-box div > a {
+  text-decoration: none;
+  color: #7a7a7a;
+}
+
+.login-box div > a:hover {
+  text-decoration: underline;
+}
+
+.login-box img {
+  width: 35%;
+}
+
+.box-shadow {
+  -webkit-box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.3);
+          box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.3);
+}
+
+.input-group .input-group-text, .input-group input {
+  border: 0px;
+  background-color: #f1f1f1;
+}
+
+.input-group input {
+  width: 100%;
+}
+
+.input-group input:focus {
+  outline: 0 none;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  background-color: #f1f1f1;
+}
+/*# sourceMappingURL=style.css.map */
