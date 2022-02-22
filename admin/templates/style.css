@@ -19,12 +19,12 @@
   padding: 0px 12px;
 }
 
-.login-box div > a {
+.login-box div > .forgotpass_link {
   text-decoration: none;
   color: #7a7a7a;
 }
 
-.login-box div > a:hover {
+.login-box div > .forgotpass_link:hover {
   text-decoration: underline;
 }
 

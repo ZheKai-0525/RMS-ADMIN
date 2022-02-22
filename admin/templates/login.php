@@ -9,7 +9,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<title>Admin | Login</title>
-		<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-iKbFRxucmOHIcpWdX9NTZ5WETOPm0Goy0WmfyNcl52qSYtc2Buk0NCe6jU1sWWNB" crossorigin="anonymous">
+		<script src="https://kit.fontawesome.com/d4e5e909e1.js" crossorigin="anonymous"></script>
         <link rel="stylesheet" type="text/css" href="style.css">
         <link rel="stylesheet" type="text/css" href="../../public_html/css/bootstrap.min.css">
 		<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
@@ -44,7 +44,7 @@
                     <button type="submit" name="login" class="btn btn-warning btn-block">Sign in</button>
                 </div>
                 <div class="row mb-3 float-end">
-                    <a href="#">Forgot Password?</a>
+                    <a href="forgot_pass.php" class="forgotpass_link">Forgot Password?</a>
                 </div>
             </form>
         </div>
